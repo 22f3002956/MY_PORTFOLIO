@@ -1,21 +1,17 @@
-# Atul Raghav - Portfolio
+# Atul Raghav's Portfolio
 
-This is a simple personal portfolio website for Atul Raghav.
+This is a personal portfolio website for Atul Raghav showcasing three projects.
 
 ## Features
 - Glowing gradient background
-- Responsive project cards that showcase different projects
+- Responsive design
+- Project cards with hover effects
 
 ## Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-## How to Run the App
-1. Clone the repository or download the files.
+## How to Run
+1. Clone the repository.
 2. Open `index.html` in your web browser.
-3. View the portfolio and explore the project cards.
-
-## Future Enhancements
-- Add project links to actual deployed projects.
-- Implement interactive features such as filtering projects or modals for more details.
